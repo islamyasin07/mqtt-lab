@@ -1,5 +1,5 @@
 # MQTT Lab - Mosquitto + Paho
-### Student ID: 122xxxxx
+### Student ID: xxxxxxx
 
 ## 📌 Description
 This lab demonstrates basic MQTT communication using:
